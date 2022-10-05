@@ -1,3 +1,3 @@
 #Display the output
 
-Print("THis is my new Python file in GitHub")
+Print("This is my new Python file in GitHub")
